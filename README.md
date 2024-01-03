@@ -1,49 +1,34 @@
-# Tip Calculator
+# Goal Tracker Mobile App
 
-## _Your name here_
 
-**Tippy** computes the tip and total amount for a bill. The app uses the base amount and tip percentage to calculate the amount owed, and it also describes the quality of service based on the tip.
+## Overview
 
-Time spent: **X** hours spent in total
+The Goal Tracker App is a cross-platform mobile application built using React Native. It allows users to set, edit, and delete their personal goals, helping them stay organized and motivated to achieve their targets.
 
-## Functionality
+## Features
 
-The following **required** functionality is completed:
+- **Goal Management:** Create, edit, and delete your goals.
+- **Cross-Platform:** Built with React Native, the app runs on both iOS and Android devices.
+- **User-Friendly Interface:** Intuitive and easy-to-use design for a seamless user experience.
+- **Customization:** Personalize your goals with categories, deadlines, and progress tracking.
 
-- [ ] User can enter in a bill amount (total amount to tip on)
-- [ ] User can enter a tip percentage (what % the user wants to tip).
-- [ ] The tip and total amount are updated immediately when any of the inputs changes.
-- [ ] The user sees a label or color update based on the tip amount.
+## Screenshots
 
-The following **extensions** are implemented:
+![App Screenshot 1]
+![App Screenshot 2]
+![App Screenshot 3]
 
-- [ ] Custom colors palette selected
-- [ ] List anything else that you did to improve the app functionality or design!
+## Getting Started
 
-## Video Walkthrough
+### Prerequisites
 
-Here's a walkthrough of implemented user stories:
+- [Node.js](https://nodejs.org/) installed
+- [Expo CLI](https://docs.expo.dev/get-started/installation/) installed
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+### Installation
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+1. Clone the repository:
 
-## Notes
+   ```bash
+   git clone https://github.com/your-username/goal-tracker-app.git
 
-Describe any challenges encountered while building the app.
-
-## License
-
-    Copyright [yyyy] [name of copyright owner]
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
