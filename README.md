@@ -12,11 +12,6 @@ The Goal Tracker App is a cross-platform mobile application built using React Na
 - **User-Friendly Interface:** Intuitive and easy-to-use design for a seamless user experience.
 - **Customization:** Personalize your goals with categories, deadlines, and progress tracking.
 
-## Screenshots
-
-![App Screenshot 1]
-![App Screenshot 2]
-![App Screenshot 3]
 
 ## Getting Started
 
@@ -30,5 +25,5 @@ The Goal Tracker App is a cross-platform mobile application built using React Na
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/goal-tracker-app.git
+   git clone https://github.com/Phamphe/myAddGoalApp.git
 
